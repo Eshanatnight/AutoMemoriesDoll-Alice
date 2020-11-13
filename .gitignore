@@ -1,2 +1,8 @@
-log.txt
-/dir1
+# IDE and Editors
+/.vs
+/.vscode
+Alice.sln
+Alice.vcxproj
+
+# Binaries
+/bin
