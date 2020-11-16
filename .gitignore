@@ -6,3 +6,4 @@ Alice.vcxproj
 
 # Binaries
 /bin
+/build
